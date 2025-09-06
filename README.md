@@ -10,4 +10,5 @@ Features:
 Technologies:
 HTML | CSS | JavaScript | React
 
-<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/556b8fe6-0c9f-41bc-8d25-ea78674d9f16" />
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/39df84cb-b4ab-4370-926a-fa9426eff265" />
+
